@@ -1,4 +1,5 @@
 require 'hotkey'
 require 'misc'
 require 'modal'
-require 'tiling'
+-- require 'tiling'
+require 'spectacle'
